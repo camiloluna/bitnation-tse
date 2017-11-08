@@ -31,4 +31,4 @@ nbproject
 
 *.gem
 Gemfile.lock
-site/_site
+_site
