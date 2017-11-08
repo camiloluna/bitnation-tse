@@ -1,0 +1,7 @@
+- <section> .row .col-#, donde # indica el número de columnas
+- Cada fila de columnas debe tener su .row, no se pueden poner dos columnas de ancho completo seguido
+- .row no debe tener padding ni margin, solo las <section> y las .col-# 
+- <section> debe tener ancho completo y .row es lo que determina el ancho de toda la página
+- Buscar ejemplos de layout con .row; ver el que usa Jekyll; 12 columnas no da para dividir en 5; 30 sería una posibilidad
+- Convertir team.html a dinámico con YAML
+- Traducción de la página de inicio

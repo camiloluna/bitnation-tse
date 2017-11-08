@@ -1,0 +1,16 @@
+title: Bitnation
+description: Pensamientos, relfexiones, ideas.
+author: Camilo Luna
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-polyglot
+site.lang: es
+permalink: pretty
+
+#Polyglot
+languages: ["en", "es", "de", "fr"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css", "public"]
+data_dir: ./_data
